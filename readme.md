@@ -1,0 +1,117 @@
+# Awesome Roblox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of open source ROBLOX projects
+
+
+## Contents
+
+- [Frameworks & Libraries](#frameworks)
+- [Tools](#tools)
+- [Plugins](#plugins)
+  * [Level Design Plugins](#level-design-plugins)
+  * [UI Design Plugins](#ui-design-plugins)
+  * [Scripting Plugins](#scripting-plugins)
+  * [Other Plugins](#other-plugins)
+- [Bots](#bots)
+- [Other](#other)
+
+---
+
+## Frameworks
+
+Handy frameworks and libraries to build your ROBLOX games on top of!
+
+- [Roblox Core Scripts](https://github.com/Roblox/Core-Scripts)
+- [Nevermore Engine](https://github.com/Quenty/NevermoreEngine)
+- [Freya](https://github.com/CrescentCode/Freya)
+- [Valkyrie](https://github.com/CrescentCode/ValkyrieFramework)
+- [Aero Game Framework](https://github.com/Sleitnick/AeroGameFramework)
+- [Roact](https://github.com/Roblox/roact)
+- [Rodux](https://github.com/Roblox/rodux)
+- [Roact Material](https://github.com/AmaranthineCodices/roact-material)
+
+
+## Tools
+
+Tools to augument your game development experience
+
+- [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
+- [Rojo](https://github.com/LPGhatguy/rojo)
+- [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain)
+- [roblox.js](https://github.com/sentanos/roblox-js)
+- [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
+- [Group Auto Ranker](https://github.com/Quenty/ROBLOX-group-autoranker)
+- [Entity Component System](https://github.com/tiffany352/RobloxComponentSystem)
+- [ROBLOX Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise)
+- [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source)
+- [Dungeon Generator](https://github.com/EgoMoose/Dungeon-generator)
+
+
+## Plugins
+
+Plugins to help you build levels fast!
+
+### Level Design plugins
+
+- [F3X Building Tools](https://github.com/F3XTeam/RBX-Building-Tools)
+- [Studio Build Suite](https://www.roblox.com/catalog/260276858/Studio-Build-Suite)
+- [qCmdUtl](https://www.roblox.com/catalog/142314093/qCmdUtl-Streamlined-building)
+- [Oozle Draw](https://www.roblox.com/catalog/172311381/Oozle-Draw-Modified-by-Quenty)
+- [CSG Curve Cutter](https://www.roblox.com/catalog/377278481/CSG-Curve-Cutter)
+- [Terraingle](https://www.roblox.com/catalog/149243812/Terraingle-Databrains-terrain-plugin-V1-6)
+- [Archimedes Two](https://www.roblox.com/catalog/144938633/Archimedes-Two-v2-4)
+- [Draw Triangle](https://www.roblox.com/catalog/142298006/Draw-Triangle)
+- [Build v4](https://www.roblox.com/catalog/143383965/Build-v4)
+- [Brick Cutter](https://www.roblox.com/catalog/143152131/Brick-Cutter)
+- [Stravant's Model Reflect](https://www.roblox.com/catalog/217792838/Stravant-Model-Reflect)
+- [Stravant's Edge Align](https://www.roblox.com/catalog/159928305/Stravant-EdgeAlign)
+- [Databrain's Volumetric Lighting](https://www.roblox.com/catalog/145518978/Databrains-Volumetric-Lighting-Plugin-V1-1)
+- [Stravant's Material Flip](https://www.roblox.com/catalog/166951203/Stravant-MaterialFlip)
+- [Fence Creator](https://www.roblox.com/catalog/274631406/Fence-Creator)
+- [Tree Generator](https://www.roblox.com/catalog/519874479/Tree-Generator)
+- [Model Resize](https://www.roblox.com/catalog/143613186/Model-Resize-Plugin-2-1-DRAG-TO-RESIZE)
+- [Stravant Resize Align](https://www.roblox.com/catalog/165534573/Stravant-ResizeAlign-Fixed)
+- [CSG Primitives](https://www.roblox.com/catalog/232792970/CSG-Primitives)
+- [Beveler](https://www.roblox.com/catalog/243077623/Beveler)
+- [Bézier Paths](https://www.roblox.com/library/232918839/B-zier-Paths)
+- [Ananimus's Tree Generator](https://www.roblox.com/catalog/142314880/Anaminuss-Tree-Genorator)
+
+
+### UI Design plugins
+- [Gui Designer](https://www.roblox.com/catalog/183008024/Gui-Designer)
+- [GUI Builder](https://www.roblox.com/catalog/173053485/GuiBuilder)
+
+### Scripting plugins
+
+### Other plugins
+- [Cutscene Editor](https://www.roblox.com/catalog/142296237/Cutscene-Editor-Plugin-FIXED)
+- [Tag editor](https://github.com/tiffany352/Roblox-Tag-Editor)
+- [Load Character](https://www.roblox.com/catalog/752585459/Load-Character)
+- [Mannequin Maker](https://www.roblox.com/catalog/148647459/Mannequin-maker-plugin)
+
+
+## Bots
+
+Open source bots that you can use in your servers!
+
+- [RoVer](https://github.com/evaera/RoVer)
+- [Discord Bot Service](https://github.com/TheIcyStar/Roblox-DiscordBotService)
+
+
+
+## Other
+
+- [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, buoyantair has waived all copyright and
+related or neighboring rights to this work.
