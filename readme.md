@@ -13,6 +13,9 @@
   * [Scripting Plugins](#scripting-plugins)
   * [Other Plugins](#other-plugins)
 - [Bots](#bots)
+- [Learning Resources](#learning-resources)
+  * [Youtube Channels](#youtube-channels)
+  * [Blogs](#blogs)
 - [Other](#other)
 
 ---
@@ -38,7 +41,6 @@ Tools to augument your game development experience
 - [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
 - [Rojo](https://github.com/LPGhatguy/rojo)
 - [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain)
-- [roblox.js](https://github.com/sentanos/roblox-js)
 - [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
 - [Group Auto Ranker](https://github.com/Quenty/ROBLOX-group-autoranker)
 - [Entity Component System](https://github.com/tiffany352/RobloxComponentSystem)
@@ -97,6 +99,28 @@ Open source bots that you can use in your servers!
 - [RoVer](https://github.com/evaera/RoVer)
 - [Discord Bot Service](https://github.com/TheIcyStar/Roblox-DiscordBotService)
 
+
+## Learning Resources
+
+- [Scripting Helpers](https://scriptinghelpers.org/)
+- [ROBLOX Developer Hub](http://robloxdev.com/)
+- [Lua Reference Manual](https://www.lua.org/manual/)
+- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme)
+- [ROBLOX Developer Forum](https://devforum.roblox.com/)
+- [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
+### Youtube Channels
+
+- [EgoMoose](https://www.youtube.com/channel/UCMPpTwmNG_VO0DtZvQoGbrg/videos)
+- [Pamzshxt](https://www.youtube.com/channel/UCiSUWHhoDVWwfSkh4GO8dkw)
+- [AlvinBLOX](https://www.youtube.com/channel/UCp1R0TBvgM7gj0rwTYULmSA)
+- [PeasFactory](https://www.youtube.com/user/PeasFactory)
+- [ROBLOX](https://www.youtube.com/user/roblox/featured)
+
+### Blogs
+
+- [amaranthinecodices](https://amaranthinecodices.me/post/)
+- [Ozzy's Blog](https://ozzypig.com/)
+- [Quenty's Blog](https://medium.com/roblox-development)
 
 
 ## Other
