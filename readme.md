@@ -1,6 +1,6 @@
 # Awesome Roblox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of open source ROBLOX projects
+> A curated list of open source ROBLOX projects & resources
 
 
 ## Contents
@@ -16,6 +16,7 @@
 - [Learning Resources](#learning-resources)
   * [Youtube Channels](#youtube-channels)
   * [Blogs](#blogs)
+- [Discord Servers](#discord-servers)
 - [Other](#other)
 
 ---
@@ -47,7 +48,8 @@ Tools to augument your game development experience
 - [ROBLOX Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise)
 - [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source)
 - [Dungeon Generator](https://github.com/EgoMoose/Dungeon-generator)
-
+- [Lemur](https://github.com/LPGhatguy/lemur)
+- [Luanoid](https://github.com/LPGhatguy/luanoid)
 
 ## Plugins
 
@@ -77,6 +79,9 @@ Plugins to help you build levels fast!
 - [Beveler](https://www.roblox.com/catalog/243077623/Beveler)
 - [Bézier Paths](https://www.roblox.com/library/232918839/B-zier-Paths)
 - [Ananimus's Tree Generator](https://www.roblox.com/catalog/142314880/Anaminuss-Tree-Genorator)
+- [Ultimate Model Stretch / Extend](https://www.roblox.com/library/1032987767/Ultimate-Model-Stretch-Extend-1-dimensional)
+- [Waterfall Generator](https://www.roblox.com/library/1191990117/Waterfall-Generator)
+- [Light Editor](https://www.roblox.com/library/1223999426/Light-Editor)
 
 
 ### UI Design plugins
@@ -84,13 +89,14 @@ Plugins to help you build levels fast!
 - [GUI Builder](https://www.roblox.com/catalog/173053485/GuiBuilder)
 
 ### Scripting plugins
+- [Lines Of Code](https://www.roblox.com/library/333507912/Lines-Of-Code)
 
 ### Other plugins
 - [Cutscene Editor](https://www.roblox.com/catalog/142296237/Cutscene-Editor-Plugin-FIXED)
 - [Tag editor](https://github.com/tiffany352/Roblox-Tag-Editor)
 - [Load Character](https://www.roblox.com/catalog/752585459/Load-Character)
 - [Mannequin Maker](https://www.roblox.com/catalog/148647459/Mannequin-maker-plugin)
-
+- [RigEdit](https://www.roblox.com/library/1274343708/RigEdit-Create-and-edit-animation-rigs)
 
 ## Bots
 
@@ -108,6 +114,8 @@ Open source bots that you can use in your servers!
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [ROBLOX Developer Forum](https://devforum.roblox.com/)
 - [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
+- [THEM Magazines](https://issuu.com/themm)
+
 ### Youtube Channels
 
 - [EgoMoose](https://www.youtube.com/channel/UCMPpTwmNG_VO0DtZvQoGbrg/videos)
@@ -115,6 +123,7 @@ Open source bots that you can use in your servers!
 - [AlvinBLOX](https://www.youtube.com/channel/UCp1R0TBvgM7gj0rwTYULmSA)
 - [PeasFactory](https://www.youtube.com/user/PeasFactory)
 - [ROBLOX](https://www.youtube.com/user/roblox/featured)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### Blogs
 
@@ -122,6 +131,13 @@ Open source bots that you can use in your servers!
 - [Ozzy's Blog](https://ozzypig.com/)
 - [Quenty's Blog](https://medium.com/roblox-development)
 
+
+## Discord Servers
+
+- [ScriptersCF](https://discord.gg/4YSfsNc)
+- [Hidden Developers](https://discord.gg/KZ3YM2e)
+- [ROBLOX Builders](https://discord.gg/Nfz84PM)
+- [ROBLOX Helpers](https://discord.gg/NWSMyHh)
 
 ## Other
 
