@@ -50,6 +50,7 @@ Tools to augument your game development experience
 - [Dungeon Generator](https://github.com/EgoMoose/Dungeon-generator)
 - [Lemur](https://github.com/LPGhatguy/lemur)
 - [Luanoid](https://github.com/LPGhatguy/luanoid)
+- [Radial SpriteSheet Generator](https://github.com/evaera/RadialSpriteSheetGenerator)
 
 ## Plugins
 
@@ -115,6 +116,7 @@ Open source bots that you can use in your servers!
 - [ROBLOX Developer Forum](https://devforum.roblox.com/)
 - [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 - [THEM Magazines](https://issuu.com/themm)
+- [Khanacademy](https://www.khanacademy.org/)
 
 ### Youtube Channels
 
@@ -134,6 +136,7 @@ Open source bots that you can use in your servers!
 
 ## Discord Servers
 
+- [Scripting Helpers](https://discordapp.com/invite/UDpAX35)
 - [ScriptersCF](https://discord.gg/4YSfsNc)
 - [Hidden Developers](https://discord.gg/KZ3YM2e)
 - [ROBLOX Builders](https://discord.gg/Nfz84PM)
