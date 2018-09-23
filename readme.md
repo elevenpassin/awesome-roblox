@@ -1,29 +1,28 @@
 # Awesome Roblox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of open source ROBLOX projects & resources
-
+> A curated list of open source Roblox projects & resources
 
 ## Contents
 
 - [Frameworks & Libraries](#frameworks)
 - [Tools](#tools)
 - [Plugins](#plugins)
-  * [Level Design Plugins](#level-design-plugins)
-  * [UI Design Plugins](#ui-design-plugins)
-  * [Scripting Plugins](#scripting-plugins)
-  * [Other Plugins](#other-plugins)
+  - [Level Design Plugins](#level-design-plugins)
+  - [UI Design Plugins](#ui-design-plugins)
+  - [Scripting Plugins](#scripting-plugins)
+  - [Other Plugins](#other-plugins)
 - [Bots](#bots)
 - [Learning Resources](#learning-resources)
-  * [Youtube Channels](#youtube-channels)
-  * [Blogs](#blogs)
+  - [Youtube Channels](#youtube-channels)
+  - [Blogs](#blogs)
 - [Discord Servers](#discord-servers)
 - [Other](#other)
-
+- [Twitter Accounts To Follow](#twitter-accounts-to-follow)
 ---
 
 ## Frameworks
 
-Handy frameworks and libraries to build your ROBLOX games on top of!
+Handy frameworks and libraries to build your Roblox games on top of!
 
 - [Roblox Core Scripts](https://github.com/Roblox/Core-Scripts)
 - [Nevermore Engine](https://github.com/Quenty/NevermoreEngine)
@@ -34,18 +33,17 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 - [Rodux](https://github.com/Roblox/rodux)
 - [Roact Material](https://github.com/AmaranthineCodices/roact-material)
 
-
 ## Tools
 
 Tools to augument your game development experience
 
-- [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
+- [Roblox Studio Tools](https://github.com/Roblox/Studio-Tools)
 - [Rojo](https://github.com/LPGhatguy/rojo)
 - [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain)
-- [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
+- [Roblox Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
 - [Group Auto Ranker](https://github.com/Quenty/ROBLOX-group-autoranker)
 - [Entity Component System](https://github.com/tiffany352/RobloxComponentSystem)
-- [ROBLOX Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise)
+- [Roblox Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise)
 - [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source)
 - [Dungeon Generator](https://github.com/EgoMoose/Dungeon-generator)
 - [Lemur](https://github.com/LPGhatguy/lemur)
@@ -85,15 +83,17 @@ Plugins to help you build levels fast!
 - [Waterfall Generator](https://www.roblox.com/library/1191990117/Waterfall-Generator)
 - [Light Editor](https://www.roblox.com/library/1223999426/Light-Editor)
 
-
 ### UI Design plugins
+
 - [Gui Designer](https://www.roblox.com/catalog/183008024/Gui-Designer)
 - [GUI Builder](https://www.roblox.com/catalog/173053485/GuiBuilder)
 
 ### Scripting plugins
+
 - [Lines Of Code](https://www.roblox.com/library/333507912/Lines-Of-Code)
 
 ### Other plugins
+
 - [Cutscene Editor](https://www.roblox.com/catalog/142296237/Cutscene-Editor-Plugin-FIXED)
 - [Tag editor](https://github.com/tiffany352/Roblox-Tag-Editor)
 - [Load Character](https://www.roblox.com/catalog/752585459/Load-Character)
@@ -107,15 +107,14 @@ Open source bots that you can use in your servers!
 - [RoVer](https://github.com/evaera/RoVer)
 - [Discord Bot Service](https://github.com/TheIcyStar/Roblox-DiscordBotService)
 
-
 ## Learning Resources
 
 - [Scripting Helpers](https://scriptinghelpers.org/)
-- [ROBLOX Developer Hub](http://robloxdev.com/)
+- [Roblox Developer Hub](http://robloxdev.com/)
 - [Lua Reference Manual](https://www.lua.org/manual/)
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme)
-- [ROBLOX Developer Forum](https://devforum.roblox.com/)
-- [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
+- [Roblox Developer Forum](https://devforum.roblox.com/)
+- [Roblox Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 - [THEM Magazines](https://issuu.com/themm)
 - [Khanacademy](https://www.khanacademy.org/)
 
@@ -125,7 +124,7 @@ Open source bots that you can use in your servers!
 - [Pamzshxt](https://www.youtube.com/channel/UCiSUWHhoDVWwfSkh4GO8dkw)
 - [AlvinBLOX](https://www.youtube.com/channel/UCp1R0TBvgM7gj0rwTYULmSA)
 - [PeasFactory](https://www.youtube.com/user/PeasFactory)
-- [ROBLOX](https://www.youtube.com/user/roblox/featured)
+- [Roblox](https://www.youtube.com/user/roblox/featured)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### Blogs
@@ -134,24 +133,42 @@ Open source bots that you can use in your servers!
 - [Ozzy's Blog](https://ozzypig.com/)
 - [Quenty's Blog](https://medium.com/roblox-development)
 
-
 ## Discord Servers
 
 - [Scripting Helpers](https://discordapp.com/invite/UDpAX35)
 - [ScriptersCF](https://discord.gg/4YSfsNc)
 - [Hidden Developers](https://discord.gg/KZ3YM2e)
-- [ROBLOX Builders](https://discord.gg/Nfz84PM)
-- [ROBLOX Helpers](https://discord.gg/NWSMyHh)
+- [Roblox Builders](https://discord.gg/Nfz84PM)
+- [Roblox Helpers](https://discord.gg/NWSMyHh)
 
 ## Other
 
 - [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels)
 
+## Twitter Accounts To Follow
+
+- [TheShipArchitec](https://twitter.com/TheShipArchitec)
+- [Myzta_](https://twitter.com/Myzta_)
+- [EvilArtist_](https://twitter.com/EvilArtist_)
+- [Crazyblox_Dev](https://twitter.com/Crazyblox_Dev)
+- [Crykeee](https://twitter.com/Crykeee)
+- [thelolguy301](https://twitter.com/thelolguy301)
+- [HolidayPwner](https://twitter.com/HolidayPwner)
+- [CM32Roblox](https://twitter.com/CM32Roblox)
+- [TigerCaptain_](https://twitter.com/TigerCaptain_)
+- [BeeismRblx](https://twitter.com/BeeismRblx)
+- [PolyhexGames](https://twitter.com/PolyhexGames)
+- [maplestick1](https://twitter.com/maplestick1)
+- [WslyRBLX](https://twitter.com/WslyRBLX)
+- [TheNexusAvenger](https://twitter.com/TheNexusAvenger)
+- [ScriptOnRoblox](https://twitter.com/ScriptOnRoblox)
+- [CloneTeee1019](https://twitter.com/CloneTeee1019)
+- [stickmasterluke](https://twitter.com/stickmasterluke)
+- [AlvinBLOX](https://twitter.com/AlvinBLOX)
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
