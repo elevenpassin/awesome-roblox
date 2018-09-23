@@ -51,6 +51,7 @@ Tools to augument your game development experience
 - [Lemur](https://github.com/LPGhatguy/lemur)
 - [Luanoid](https://github.com/LPGhatguy/luanoid)
 - [Radial SpriteSheet Generator](https://github.com/evaera/RadialSpriteSheetGenerator)
+- [roblox-ts](https://github.com/roblox-ts/roblox-ts)
 
 ## Plugins
 
