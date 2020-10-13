@@ -37,8 +37,10 @@ Handy frameworks and libraries to build your Roblox games on top of!
 
 Tools to augument your game development experience
 
+- [Cmdr](https://github.com/evaera/Cmdr)
 - [Roblox Studio Tools](https://github.com/Roblox/Studio-Tools)
 - [Rojo](https://github.com/LPGhatguy/rojo)
+- [roblox-ts](https://github.com/roblox-ts/roblox-ts)
 - [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain)
 - [Roblox Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
 - [Group Auto Ranker](https://github.com/Quenty/ROBLOX-group-autoranker)
@@ -49,7 +51,7 @@ Tools to augument your game development experience
 - [Lemur](https://github.com/LPGhatguy/lemur)
 - [Luanoid](https://github.com/LPGhatguy/luanoid)
 - [Radial SpriteSheet Generator](https://github.com/evaera/RadialSpriteSheetGenerator)
-- [roblox-ts](https://github.com/roblox-ts/roblox-ts)
+
 
 ## Plugins
 
