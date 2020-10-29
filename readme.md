@@ -147,6 +147,7 @@ Open source bots that you can use in your servers!
 ## Other
 
 - [Open Source Levels](https://github.com/Shedletsky/Open-Source-Levels)
+- [Vesteria](https://github.com/berezaa/vesteria)
 - [Lua Style Guide](https://roblox.github.io/lua-style-guide/)
 - [ROBLOX API Reference](https://robloxapi.github.io/ref/index.html)
 - [ROBLOX Web APIs](https://api.roblox.com/docs?useConsolidatedPage=true)
