@@ -18,6 +18,7 @@
 - [Discord Servers](#discord-servers)
 - [Other](#other)
 - [Twitter Accounts To Follow](#twitter-accounts-to-follow)
+- [ROBLOX Game Studios](#roblox-game-studios)
 ---
 
 ## Frameworks
@@ -172,6 +173,12 @@ Open source bots that you can use in your servers!
 - [CloneTeee1019](https://twitter.com/CloneTeee1019)
 - [stickmasterluke](https://twitter.com/stickmasterluke)
 - [AlvinBLOX](https://twitter.com/AlvinBLOX)
+
+## ROBLOX Game Studios
+
+- [AdoptMe Team](https://playadopt.me/)
+- [RedManta Games](https://www.redmanta.games/)
+
 
 ## Contribute
 
