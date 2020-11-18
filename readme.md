@@ -136,6 +136,7 @@ Open source bots that you can use in your servers!
 - [amaranthinecodices](https://amaranthinecodices.me/post/)
 - [Ozzy's Blog](https://ozzypig.com/)
 - [Quenty's Blog](https://medium.com/roblox-development)
+- [EgoMoose's Articles](https://github.com/EgoMoose/Articles)
 
 ## Discord Servers
 
