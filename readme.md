@@ -33,6 +33,7 @@ Handy frameworks and libraries to build your Roblox games on top of!
 - [Roact](https://github.com/Roblox/roact)
 - [Rodux](https://github.com/Roblox/rodux)
 - [Roact Material](https://github.com/AmaranthineCodices/roact-material)
+- [Knit](https://github.com/Sleitnick/Knit)
 
 ## Tools
 
@@ -53,6 +54,12 @@ Tools to augument your game development experience
 - [Luanoid](https://github.com/LPGhatguy/luanoid)
 - [Radial SpriteSheet Generator](https://github.com/evaera/RadialSpriteSheetGenerator)
 - [Foreman](https://github.com/Roblox/foreman)
+- [Janitor](https://github.com/howmanysmall/Janitor)
+- [Maid](https://devforum.roblox.com/t/how-to-use-a-maid-class-on-roblox-to-manage-state/340061)
+- [Signal](https://quenty.github.io/api/classes/Signal.html)
+- [RotatedRegion3](https://devforum.roblox.com/t/rotated-region-3-module/334068)
+- [TopbarPlus](https://devforum.roblox.com/t/topbarplus-v2/1017485)
+- [ZonePlus](https://devforum.roblox.com/t/zoneplus-v2/1017701)
 
 
 ## Plugins
@@ -121,6 +128,7 @@ Open source bots that you can use in your servers!
 - [Roblox Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 - [THEM Magazines](https://issuu.com/themm)
 - [Khanacademy](https://www.khanacademy.org/)
+- [CKStudio+](https://studioplus.io/en)
 
 ### Youtube Channels
 
@@ -153,6 +161,7 @@ Open source bots that you can use in your servers!
 - [Lua Style Guide](https://roblox.github.io/lua-style-guide/)
 - [ROBLOX API Reference](https://robloxapi.github.io/ref/index.html)
 - [ROBLOX Web APIs](https://api.roblox.com/docs?useConsolidatedPage=true)
+- [Nanoblox](https://github.com/nanoblox)
 
 ## Twitter Accounts To Follow
 
