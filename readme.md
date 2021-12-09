@@ -162,6 +162,7 @@ Open source bots that you can use in your servers!
 - [Lua Style Guide](https://roblox.github.io/lua-style-guide/)
 - [ROBLOX API Reference](https://robloxapi.github.io/ref/index.html)
 - [ROBLOX Web APIs](https://api.roblox.com/docs?useConsolidatedPage=true)
+- [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis)
 - [Nanoblox](https://github.com/nanoblox)
 
 ## Twitter Accounts To Follow
