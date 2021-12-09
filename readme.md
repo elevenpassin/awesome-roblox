@@ -1,6 +1,6 @@
-# Awesome Roblox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ROBLOX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of open source Roblox projects & resources
+> A curated list of open source ROBLOX projects & resources
 
 ## Contents
 
@@ -23,9 +23,9 @@
 
 ## Frameworks
 
-Handy frameworks and libraries to build your Roblox games on top of!
+Handy frameworks and libraries to build your ROBLOX games on top of!
 
-- [Roblox Core Scripts](https://github.com/Roblox/Core-Scripts)
+- [ROBLOX Core Scripts](https://github.com/Roblox/Core-Scripts)
 - [Nevermore Engine](https://github.com/Quenty/NevermoreEngine)
 - [Freya](https://github.com/CrescentCode/Freya)
 - [Valkyrie](https://github.com/CrescentCode/ValkyrieFramework)
@@ -41,14 +41,14 @@ Tools to augument your game development experience
 
 - [wally](https://github.com/UpliftGames/wally)
 - [Cmdr](https://github.com/evaera/Cmdr)
-- [Roblox Studio Tools](https://github.com/Roblox/Studio-Tools)
+- [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
 - [Rojo](https://github.com/LPGhatguy/rojo)
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts)
 - [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain)
-- [Roblox Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
+- [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
 - [Group Auto Ranker](https://github.com/Quenty/ROBLOX-group-autoranker)
 - [Entity Component System](https://github.com/tiffany352/RobloxComponentSystem)
-- [Roblox Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise)
+- [ROBLOX Lua Promise](https://github.com/LPGhatguy/roblox-lua-promise)
 - [Rbx2Source](https://github.com/CloneTrooper1019/Rbx2Source)
 - [Dungeon Generator](https://github.com/EgoMoose/Dungeon-generator)
 - [Lemur](https://github.com/LPGhatguy/lemur)
@@ -122,11 +122,11 @@ Open source bots that you can use in your servers!
 ## Learning Resources
 
 - [Scripting Helpers](https://scriptinghelpers.org/)
-- [Roblox Developer Hub](http://robloxdev.com/)
+- [ROBLOX Developer Hub](http://robloxdev.com/)
 - [Lua Reference Manual](https://www.lua.org/manual/)
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme)
-- [Roblox Developer Forum](https://devforum.roblox.com/)
-- [Roblox Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
+- [ROBLOX Developer Forum](https://devforum.roblox.com/)
+- [ROBLOX Dev Tips Twitter](https://twitter.com/rbxdevtips?lang=en)
 - [THEM Magazines](https://issuu.com/themm)
 - [Khanacademy](https://www.khanacademy.org/)
 - [CKStudio+](https://studioplus.io/en)
@@ -137,7 +137,7 @@ Open source bots that you can use in your servers!
 - [Pamzshxt](https://www.youtube.com/channel/UCiSUWHhoDVWwfSkh4GO8dkw)
 - [AlvinBLOX](https://www.youtube.com/channel/UCp1R0TBvgM7gj0rwTYULmSA)
 - [PeasFactory](https://www.youtube.com/user/PeasFactory)
-- [Roblox](https://www.youtube.com/user/roblox/featured)
+- [ROBLOX](https://www.youtube.com/user/roblox/featured)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ### Blogs
@@ -152,8 +152,8 @@ Open source bots that you can use in your servers!
 - [Scripting Helpers](https://discordapp.com/invite/UDpAX35)
 - [ScriptersCF](https://discord.gg/4YSfsNc)
 - [Hidden Developers](https://discord.gg/KZ3YM2e)
-- [Roblox Builders](https://discord.gg/Nfz84PM)
-- [Roblox Helpers](https://discord.gg/NWSMyHh)
+- [ROBLOX Builders](https://discord.gg/Nfz84PM)
+- [ROBLOX Helpers](https://discord.gg/NWSMyHh)
 
 ## Other
 
