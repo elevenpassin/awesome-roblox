@@ -35,6 +35,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 - [Rodux](https://github.com/Roblox/rodux)
 - [Roact Material](https://github.com/AmaranthineCodices/roact-material)
 - [Knit](https://github.com/Sleitnick/Knit)
+- [Proton](https://github.com/Sleitnick/rbxts-proton/)
 
 ## Tools
 
