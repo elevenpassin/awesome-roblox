@@ -64,6 +64,7 @@ Tools to augument your game development experience
 - [TopbarPlus](https://devforum.roblox.com/t/topbarplus-v2/1017485)
 - [ZonePlus](https://devforum.roblox.com/t/zoneplus-v2/1017701)
 - [Dynablox Opencloud](https://github.com/dynabloxjs/dynablox_opencloud)
+- [Rbx Gravity Controller](https://github.com/EgoMoose/Rbx-Gravity-Controller)
 
 
 ## Plugins
