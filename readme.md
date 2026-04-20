@@ -65,6 +65,7 @@ Tools to augument your game development experience
 - [ZonePlus](https://devforum.roblox.com/t/zoneplus-v2/1017701)
 - [Dynablox Opencloud](https://github.com/dynabloxjs/dynablox_opencloud)
 - [Rbx Gravity Controller](https://github.com/EgoMoose/Rbx-Gravity-Controller)
+- [Metain](https://metain.dev) - AI assistant that generates Luau scripts, UI, and animations for ROBLOX from natural-language prompts, with live Roblox Studio sync via an open-source plugin.
 
 
 ## Plugins
