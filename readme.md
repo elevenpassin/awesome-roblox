@@ -168,6 +168,7 @@ Open source bots that you can use in your servers!
 - [ROBLOX Web APIs](https://api.roblox.com/docs?useConsolidatedPage=true)
 - [ROBLOX Web APIs by matthewdean](https://github.com/matthewdean/roblox-web-apis)
 - [Nanoblox](https://github.com/nanoblox)
+- [FriendPath](https://friendpath.arbastro.com) — Free web tool to find degrees of separation between any two Roblox accounts. Bidirectional BFS over Roblox's public friends API. Public HTTP API, 3D graph visualization, shareable result URLs.
 
 ## Twitter Accounts To Follow
 
