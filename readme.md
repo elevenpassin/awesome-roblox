@@ -41,6 +41,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 
 Tools to augument your game development experience
 
+- [StudioVault](https://studiovault-next.vercel.app)
 - [wally](https://github.com/UpliftGames/wally)
 - [Cmdr](https://github.com/evaera/Cmdr)
 - [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
