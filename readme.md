@@ -45,6 +45,7 @@ Tools to augument your game development experience
 - [Cmdr](https://github.com/evaera/Cmdr)
 - [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
 - [Rojo](https://github.com/LPGhatguy/rojo)
+- [Roblox GUI Maker](https://robloxguimaker.dev/)
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts)
 - [Pixel Terrain](https://github.com/rynstwrt/Pixel-Terrain)
 - [ROBLOX Studio Mod Manager](https://github.com/CloneTrooper1019/Roblox-Studio-Mod-Manager)
