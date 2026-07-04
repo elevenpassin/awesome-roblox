@@ -42,6 +42,7 @@ Handy frameworks and libraries to build your ROBLOX games on top of!
 Tools to augument your game development experience
 
 - [wally](https://github.com/UpliftGames/wally)
+- [ZeroScript](https://github.com/sebattfg/ZeroScript-Free)
 - [Cmdr](https://github.com/evaera/Cmdr)
 - [ROBLOX Studio Tools](https://github.com/Roblox/Studio-Tools)
 - [Rojo](https://github.com/LPGhatguy/rojo)
