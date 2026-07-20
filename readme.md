@@ -153,7 +153,7 @@ Open source bots that you can use in your servers!
 
 ## Discord Servers
 
-- [Scripting Helpers](https://discordapp.com/invite/UDpAX35)
+- [Scripting Helpers](https://discord.gg/hgXyf56h84)
 - [ScriptersCF](https://discord.gg/4YSfsNc)
 - [Hidden Developers](https://discord.gg/KZ3YM2e)
 - [ROBLOX Builders](https://discord.gg/Nfz84PM)
