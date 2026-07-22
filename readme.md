@@ -134,6 +134,7 @@ Open source bots that you can use in your servers!
 - [THEM Magazines](https://issuu.com/themm)
 - [Khanacademy](https://www.khanacademy.org/)
 - [CKStudio+](https://studioplus.io/en)
+- [Gakuran Guide](https://gakuranguide.wiki/) - Comprehensive wiki and guide hub for Roblox games featuring tier lists, codes, and fighting styles.
 
 ### Youtube Channels
 
