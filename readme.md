@@ -59,6 +59,7 @@ Tools to augument your game development experience
 - [Foreman](https://github.com/Roblox/foreman)
 - [Janitor](https://github.com/howmanysmall/Janitor)
 - [Maid](https://devforum.roblox.com/t/how-to-use-a-maid-class-on-roblox-to-manage-state/340061)
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted GUI mockup and layout planning tool for Roblox Studio menus, HUDs, shops, inventories, and admin panels.
 - [Signal](https://quenty.github.io/api/classes/Signal.html)
 - [RotatedRegion3](https://devforum.roblox.com/t/rotated-region-3-module/334068)
 - [TopbarPlus](https://devforum.roblox.com/t/topbarplus-v2/1017485)
