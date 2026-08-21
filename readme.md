@@ -65,6 +65,7 @@ Tools to augument your game development experience
 - [ZonePlus](https://devforum.roblox.com/t/zoneplus-v2/1017701)
 - [Dynablox Opencloud](https://github.com/dynabloxjs/dynablox_opencloud)
 - [Rbx Gravity Controller](https://github.com/EgoMoose/Rbx-Gravity-Controller)
+- [Cortex](https://cortex-rbx.github.io/) — drop-in AI for Roblox games (dialogue, quests, generated content, moderation) via one server-side request.
 
 
 ## Plugins
